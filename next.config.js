@@ -5,7 +5,6 @@ const sourcebitConfig = require('./sourcebit.js');
 sourcebit.fetch(sourcebitConfig);
 
 module.exports = {
-    distDir: 'build',
     trailingSlash: true,
     devIndicators: {
         autoPrerender: false
