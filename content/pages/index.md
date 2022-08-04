@@ -4,21 +4,21 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hola, Soy Nestor Ramirez  Desarrollador de paginas Web and Data Science.'
+    title: 'Hola, Soy Nestor Ramirez  Full Stack Developer Jr  y Data Scientist soy un apasionado de la tecnologia y de estar actualizandome constantemente.'
     content: >-
       Bienvenido en esta pagina podras ver algunos de los proyectos que hago asi como de lo que hablo sobre Ciencia de datos e Inteligencia Artificial
     actions:
       - label: Let's talk
         url: /contact
         style: button
-  - section_id: latest-projects
-    type: section_portfolio
-    layout_style: mosaic
-    title: Recent Work
-    subtitle: An optional subtitle of the section
-    projects_number: 6
-    view_all_label: View All
-    view_all_url: portfolio
+  # - section_id: latest-projects
+  #   type: section_portfolio
+  #   layout_style: mosaic
+  #   title: Recent Work
+  #   subtitle: An optional subtitle of the section
+  #   projects_number: 6
+  #   view_all_label: View All
+  #   view_all_url: portfolio
   - section_id: services
     type: section_grid
     title: ¿Que hacemos?
